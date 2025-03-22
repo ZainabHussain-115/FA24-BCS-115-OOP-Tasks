@@ -14,6 +14,7 @@ public class Lab{
 	}
                      //toString
 	public String toString(){
+		
 		StringBuilder st=new StringBuilder();
 		st.append(name);
 		st.append(labStaff);

@@ -22,6 +22,6 @@ public class Employee{
 	}
 
 	public String toString(){
-		return String.format("\nPerson Details:\nName: %s\nDesignation: %s\n", name, designation);
+		return String.format("\n Person Details:\nName: %s\nDesignation: %s\n", name, designation);
 	}
 }

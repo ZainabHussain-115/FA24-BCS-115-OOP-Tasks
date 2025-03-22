@@ -17,7 +17,7 @@ public class SystemUnit{
 
 
 	public String toString(){
-		return String.format("\n SystemUnit Details:\n CPU Name: %s\n RAM Size: %d GBs\n Disk Size: %s GBs\n System ID: %s \n LCD Model: %s \n",cpuName,ramSize,diskSize,systemID,lcdModel);
+		return String.format("\nSystemUnit Details:\n CPU Name: %s\n RAM Size: %d GBs\n Disk Size: %s GBs\n System ID: %s \n LCD Model: %s \n",cpuName,ramSize,diskSize,systemID,lcdModel);
 	}
 
                                                                                     //setters and getters for all variables
